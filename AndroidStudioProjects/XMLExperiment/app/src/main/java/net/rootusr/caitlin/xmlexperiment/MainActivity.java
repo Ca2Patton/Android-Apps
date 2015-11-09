@@ -13,7 +13,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    public final static String EXTRA_MESSAGE = "com.mycompany.xmlexperiment.MESSAGE";
+    public final static String EXTRA_MESSAGE = "net.rootuser.xmlexperiment.MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
